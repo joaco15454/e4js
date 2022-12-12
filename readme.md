@@ -1,0 +1,1 @@
+Buenas! No pude terminar el punto de error al ingresar un numero que no coincida con el id. Comente en el archivo js lo que habia pensado (pero no funciona)
