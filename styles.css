@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Vesper+Libre:wght@500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-size: 20px;
+    font-family: 'Vesper Libre', serif;
+}
+body {
+    background-color: black;
+}
+.container__main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.container__card {
+    background-color: #E86D20;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 600px;
+    gap: 50px;
+    border-radius: 4px;
+}
+img {
+    width: 250px
+
+}
+.top__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.mid__card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+span {
+    height: 30px;
+    width: 100px;
+    background-color: blueviolet;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+input {
+    color: black;
+}
+.bot__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
